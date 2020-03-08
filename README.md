@@ -18,7 +18,7 @@ I used CNN(convolution neural network) to train the model that perfectly predict
 
 
 
-****************
+*****************
 
 
 Better to execute in jupyter notebook line by line to know what actually is happening.
